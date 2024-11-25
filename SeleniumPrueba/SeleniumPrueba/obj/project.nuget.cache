@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WuzcXvY7H+ndUMBCZ/DqVRrZcUHWGW+MZyoMPCg+TKavYOEQTNOC8Dl3gi8Tk3B5MKhm49ouoSlL4lckzHJe/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\SeleniumPrueba\\SeleniumPrueba\\SeleniumPrueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.support\\4.26.1\\selenium.support.4.26.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512"
+  ],
+  "logs": []
+}
